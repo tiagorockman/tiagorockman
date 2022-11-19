@@ -11,9 +11,9 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorockman&layout=compact&theme=buefy&hide_border=true" /></a> 
 
-- :airplane: Looking for an international opportunity and preparing me for this
+- :airplane: Looking for an international opportunity and preparing myself for this.
 
- - :calling: If wanto to talk just message me on Linkedin link below
+ - :calling: If wanto to talk just message me on Linkedin link below, will be great to meet you.
  
 <p>
  
