@@ -5,7 +5,7 @@
 
  -💼 I am a Software Developer | Software Engineer | FullStack | I ❤️ my job.
  
-- Some Languages that I ha experience and Love.
+- Some Languages that I have experience.
 
 ![My Skills](https://skills.thijs.gg/icons?i=cs,angular,nodejs,css,js,jquery,html,react&theme=dark)
 
