@@ -13,7 +13,7 @@
 
 - :airplane: Looking for an international opportunity and preparing myself for this.
 
- - :calling: If wanto to talk just message me on Linkedin link below, will be great to meet you.
+ - :calling: If want to talk just message me on Linkedin link below, will be great to meet you.
  
 <p>
  
