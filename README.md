@@ -16,6 +16,6 @@
 <p>
  
   <a href="https://www.linkedin.com/in/tiago--neves/">
-    <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin"/>
+    <img width="50" height="50" align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin"/>
   </a>
 </p>
