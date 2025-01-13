@@ -1,7 +1,7 @@
 Hello, I am Tiago Neves! :muscle:
 ==============================
 
- -💼 Software Developer | Software Engineer | FullStack | I ❤️ my job.
+ -💼 Software Developer | Software Engineer | FullStack | I ❤️ coding.
 -----------------
 
 <p>I am a motivated and innovative software developer with over 9 years of experience. My passion is creating new knowledge and finding innovative solutions to challenges. I have solid experience in Angular, HTML, CSS, Javascript, Jquery, ASP.NET, OOP programming, MVC, NET Framework, NET CORE and SQL SERVER and agile methodologies.
